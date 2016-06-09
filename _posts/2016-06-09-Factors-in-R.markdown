@@ -1,3 +1,10 @@
+---
+published: true
+title: Factors in R
+layout: post
+---
+
+
 ## Factor Variables 
  
 1.  Are similar to categorical variables
